@@ -1,0 +1,17 @@
+{
+  "name": "actix-astro-daisyui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^1.0.0-beta.63",
+    "autoprefixer": "^10.4.2",
+    "daisyui": "^2.6.0",
+    "tailwindcss": "^3.0.23"
+  }
+}
